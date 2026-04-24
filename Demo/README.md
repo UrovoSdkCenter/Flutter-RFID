@@ -1,1 +1,1 @@
-refer to ..\SDK\urovo_rfid\example
+refer to ..\SDK\rfid\example
